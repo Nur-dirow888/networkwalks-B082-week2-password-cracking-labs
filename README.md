@@ -1,2 +1,50 @@
 # networkwalks-B082-week2-password-cracking-labs
+
 # Week 3 – Password Cracking Labs
+
+## 📌 Overview
+
+This repository documents my Week 3 cybersecurity practical labs focused on password cracking and password security.
+
+The labs demonstrate how password-protected files can be analyzed by extracting their password hash and using password-cracking tools to recover the original password.
+
+## 🎯 Learning Objectives
+
+By completing these labs, I learned:
+
+- What password hashing is
+- The difference between hashing and encryption
+- How password-protected PDF hashes can be extracted
+- How John the Ripper can be used for password recovery
+- How Networkwalks Hash Calculator and Password Cracker work
+- Why weak passwords are easier to crack
+- Why strong and unique passwords are important
+- How password cracking can be used for authorized security testing
+
+---
+
+## 🧪 Project Module 1 – Password Cracking with John the Ripper
+
+### Tools Used
+
+- Kali Linux
+- John the Ripper
+- Johnny GUI
+- PDF hash extraction tool
+
+### Workflow
+
+```text
+Password-Protected PDF
+        ↓
+Extract Password Hash
+        ↓
+Save Hash
+        ↓
+Load Hash into Johnny
+        ↓
+Start Password Cracking
+        ↓
+Recover Password
+        ↓
+Unlock PDF
