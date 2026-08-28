@@ -74,4 +74,4 @@ These practical labs demonstrated several important password-security concepts:
 ![Module 1](Project-Module-1-JTR/Screenshots/02.Johnny-attack.png)
 
 ### Module 2 – NetworkWalks Tools
-![Module 2](Project-Module-2-Networkwalks-Tools/Screanshots/...)
+![Module 2](Project-Module-2-Networkwalks-Tools/Screanshots/02.Networkwalks-password-cracker.png)
