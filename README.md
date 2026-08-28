@@ -47,3 +47,20 @@ Start Password Cracking
 Recover Password
         ↓
 Unlock PDF
+
+###🛡️ Security Takeaways
+
+These practical labs demonstrated several important password-security concepts:
+
+- Password-protected files can be analyzed by extracting the password hash and using password-cracking techniques.
+- Password strength has a direct impact on the time required to recover a password.
+- Weak and commonly used passwords are more susceptible to password-cracking attacks.
+- Password hashes should be protected because attackers may attempt offline cracking if they obtain them.
+- Hashing and encryption are different concepts: encryption is designed to be reversible with the appropriate key, while hashing is generally a one-way process.
+- Password-cracking tools such as John the Ripper can be useful for authorized security assessments and password-strength testing.
+- Security professionals should use strong, complex, and unique passwords to reduce the risk of successful password attacks.
+- Password-cracking techniques should only be performed against systems or files where explicit authorization has been granted.
+
+### Key Security Lesson
+
+> A strong password is an important layer of defense because password complexity directly affects the difficulty and time required for password recovery.
