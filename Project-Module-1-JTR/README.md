@@ -10,12 +10,11 @@ The objective of this lab was to recover the password of an authorized password-
 - John the Ripper
 - Johnny - GUI for JTR
 - PDF password hash
-- Online hash cracker: https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php
 
 ## 🔄 Methodology
 
 1. Obtain the authorized password-protected PDF.
-2. Extract the PDF password hash.
+2. Extract the PDF password hash using Online hash cracker: https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php
 3. Save the hash into a text file.
 4. Open Johnny.
 5. Load the hash file.
