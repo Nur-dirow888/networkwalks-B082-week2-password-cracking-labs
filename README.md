@@ -67,3 +67,11 @@ These practical labs demonstrated several important password-security concepts:
 ### Key Security Lesson
 
 > A strong password is an important layer of defense because password complexity directly affects the difficulty and time required for password recovery.
+
+## 📸 Practical Evidence
+
+### Module 1 – John the Ripper
+![Module 1](Project-Module-1-JTR/Screenshots/...)
+
+### Module 2 – NetworkWalks Tools
+![Module 2](Project-Module-2-Networkwalks-Tools/Screanshots/...)
