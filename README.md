@@ -71,7 +71,7 @@ These practical labs demonstrated several important password-security concepts:
 ## 📸 Practical Evidence
 
 ### Module 1 – John the Ripper
-![Module 1](Project-Module-1-JTR/Screenshots/...)
+![Module 1](Project-Module-1-JTR/Screenshots/02.Johnny-attack.png)
 
 ### Module 2 – NetworkWalks Tools
 ![Module 2](Project-Module-2-Networkwalks-Tools/Screanshots/...)
