@@ -13,11 +13,11 @@ The objective of this lab was to recover the password of an authorized password-
 
 ## 🔄 Methodology
 
-1. Obtain the authorized password-protected PDF.
-2. Upload the PDF to the Hash Calculator.
+1. Obtain the authorized password-protected PDF -see in the screenshots directory -
+2. Upload the PDF to the Networkwalks Hash Calculator using this link: https://networkwalks.com/hash-calculator/
 3. Extract the complete PDF hash.
 4. Copy the hash value.
-5. Open the Password Cracker.
+5. Open the Password Cracker using the link: https://networkwalks.com/password-cracker/
 6. Paste the hash.
 7. Start the password-cracking process.
 8. Recover the password.
