@@ -21,7 +21,7 @@ By completing these labs, I learned:
 
 ---
 
-## 🧪 Project Module 1 – Password Cracking with John the Ripper
+## 🧪 Project Module 1 & 2 – Password Cracking with John the Ripper and with Networkwalks
 
 ### Tools Used
 
@@ -29,6 +29,7 @@ By completing these labs, I learned:
 - John the Ripper
 - Johnny GUI
 - PDF hash extraction tool
+- Networkwalks password cracker
 
 ### Workflow
 
