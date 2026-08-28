@@ -13,7 +13,7 @@ The objective of this lab was to recover the password of an authorized password-
 
 ## 🔄 Methodology
 
-1. Obtain the authorized password-protected PDF. ![Download here the locked PDF](Project-Module-1-JTR/Screenshots/My Locked PDF1.pdf)
+1. Obtain the authorized password-protected PDF. [Download here the locked PDF](Project-Module-1-JTR/Screenshots/My Locked PDF1.pdf)
 2. Extract the PDF password hash using Online hash cracker: https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php
 3. Save the hash into a text file.
 4. Open Johnny.
