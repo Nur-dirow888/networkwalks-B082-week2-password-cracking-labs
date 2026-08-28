@@ -6,6 +6,8 @@ This repository documents my Week 3 cybersecurity practical labs focused on pass
 
 The labs demonstrate how password-protected files can be analyzed by extracting their password hash and using password-cracking tools to recover the original password.
 
+---
+
 ## 🎯 Learning Objectives
 
 By completing these labs, I learned:
@@ -47,6 +49,7 @@ Start Password Cracking
 Recover Password
         ↓
 Unlock PDF
+```
 
 ###🛡️ Security Takeaways
 
