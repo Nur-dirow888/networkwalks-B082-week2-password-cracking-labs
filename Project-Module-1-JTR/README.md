@@ -10,9 +10,8 @@ The objective of this lab was to recover the password of an authorized password-
 
 ## 🛠️ Tools
 
-- Kali Linux
 - John the Ripper
-- Johnny
+- Johnny - GUI for JTR
 - PDF password hash
 
 ## 🔄 Methodology
