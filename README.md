@@ -25,7 +25,7 @@ By completing these labs, I learned:
 
 ### Tools Used
 
-- Kali Linux
+- Windows OS.
 - John the Ripper
 - Johnny GUI
 - PDF hash extraction tool
