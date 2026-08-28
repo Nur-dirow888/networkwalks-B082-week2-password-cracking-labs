@@ -1,8 +1,5 @@
 
-## Module 1 `README.md`
-
-```markdown
-# Project Module 1 – Password Cracking with John the Ripper
+## Module 1 `Password Cracking with John the Ripper - JTR`
 
 ## 🎯 Objective
 
@@ -13,6 +10,7 @@ The objective of this lab was to recover the password of an authorized password-
 - John the Ripper
 - Johnny - GUI for JTR
 - PDF password hash
+- Online hash cracker: https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php
 
 ## 🔄 Methodology
 
